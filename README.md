@@ -11,6 +11,7 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky.
 ![Alt text](Images/activity%203.png)
 
 ## Activity 4
+![Alt text](Images/activity%204.png)
 ![Alt text](Images/activity%204-1.png)
 ![Alt text](Images/activity%204-2.png)
 ![Alt text](Images/activity%204-3.png)
